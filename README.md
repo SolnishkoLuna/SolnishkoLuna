@@ -15,11 +15,6 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white)
 
----
-
-### 📫 Contact Me:
-- ✉️ Email: ichkitidzenatali@gmail.com  
-- 📱 Phone: +995 599 00 13 93
 
 ---
 
